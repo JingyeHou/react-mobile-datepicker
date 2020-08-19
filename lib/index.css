@@ -12,7 +12,7 @@
     --ios-bg: #fff;
     --ios-color: color(var(--ios-bg) contrast(50%));
     --ios-disabled-color: color(var(--ios-color) blend(var(--ios-bg) 70%));
-    --ios-theme: #dbdbdb;
+    --ios-theme: #fff;
 
     --android-bg: #f5f5f5;
     --android-color: color(var(--android-bg) contrast(50%));
