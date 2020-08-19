@@ -198,7 +198,7 @@
         }
         .datepicker-viewport {
             &::after {
-                background: linear-gradient(#f7f7f7,rgba(245,245,245,0)52%,rgba(245,245,245,0)48%,#f7f7f7);
+                background: linear-gradient(var(--ios-theme),rgba(245,245,245,0)52%,rgba(245,245,245,0)48%,var(--ios-theme));
             }
         }
         .datepicker-wheel {
