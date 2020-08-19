@@ -9,7 +9,7 @@
     --dark-disabled-color: color(var(--dark-color) blend(var(--dark-bg) 70%));
     --dark-theme: #50ccc4;
 
-    --ios-bg: #f7f7f7;
+    --ios-bg: #fff;
     --ios-color: color(var(--ios-bg) contrast(50%));
     --ios-disabled-color: color(var(--ios-color) blend(var(--ios-bg) 70%));
     --ios-theme: #dbdbdb;
@@ -38,7 +38,7 @@
 }
 
 .datepicker {
-    position: absolute;
+    position: 'initial';
     left: 0;
     bottom: 0;
     width: 100%;
